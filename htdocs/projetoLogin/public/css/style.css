@@ -1,0 +1,22 @@
+a {
+    color: inherit;
+  }
+
+  a:hover {
+    text-decoration: none;
+  }
+
+  .actions {
+    width: 150px;
+  }
+  .actions a {
+    cursor: pointer;
+    font-size: 17px;
+  }
+
+  thead tr th {
+    text-align: center;
+  }
+  tr td {
+    text-align: center;
+  }
